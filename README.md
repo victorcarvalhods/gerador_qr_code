@@ -4,7 +4,7 @@ Este é um simples aplicativo Node.js usando o framework Express para gerar um Q
 
 ## Pré-requisitos
  Antes de começar, certifique-se de ter o Node.js instalado em seu sistema. 
- ```bash
+ ```bashCopy code
   # Instale as dependências 
   npm install
   ```
@@ -13,7 +13,7 @@ Este é um simples aplicativo Node.js usando o framework Express para gerar um Q
 1.  Execute o aplicativo:
 
 ```bashCopy code
-`node app.js` 
+node app.js
 ```
 
 2.  Abra seu navegador e acesse `http://localhost:3000`.
